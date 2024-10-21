@@ -1,0 +1,13 @@
+.header h1 {
+    color: #000;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.header {
+    margin-bottom: 48px;
+    margin-top: 144px;
+}

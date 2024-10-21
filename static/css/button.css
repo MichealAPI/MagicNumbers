@@ -1,0 +1,21 @@
+.custom-button {
+    width: 350px;
+    height: 60px;
+    border-radius: 5px;
+    background: #3AE3A8;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    color: #000;
+    border: none;
+    
+}
+
+.button-header p {
+    margin-top: 80px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+}
