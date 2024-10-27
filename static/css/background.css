@@ -1,4 +1,28 @@
-.background {
+.bg-default {
     background-color: #CCFFC5;
-    height: 100%;
+}
+
+.custom-transition {
+    transition: 1s;
+}
+
+
+.bg-yellow {
+    background-color: #fff1c5;
+}
+
+.bg-light-blue {
+    background-color: #c5d5ff;
+}
+
+.bg-purple {
+    background-color: #ffc5f5;
+}
+
+.bg-light-red {
+    background-color: #ffc5c5;
+}
+
+.bg-cyan {
+    background-color: #b2e7ff;
 }
